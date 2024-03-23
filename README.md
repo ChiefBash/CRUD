@@ -1,4 +1,4 @@
-## 📃 Summary
+## 📃 Information
 <p>
   A CRUD (create, read, update and delete) application I built and configured to learn and test different web application vulnerabilities such as cross-site scripting (XSS), SQL injections and CSRF (cross-site request forgery).
 </p>
